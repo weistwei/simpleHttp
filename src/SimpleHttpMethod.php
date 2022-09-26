@@ -1,6 +1,6 @@
 <?php
 
-namespace NickLabs\Net;
+namespace SimpleHttp;
 
 class SimpleHttpMethod {
 

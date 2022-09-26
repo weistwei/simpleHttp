@@ -1,12 +1,12 @@
 <?php
 
-namespace NickLabs\Net;
+namespace SimpleHttp;
 
 use Exception;
 
 /**
  * Class SimpleHttpCookieSameSite
- * @package NickLabs\Net
+ * @package SimpleHttp
  * @author Nick <weist.wei@gmail.com>
  * @date 2021/8/2
  */
