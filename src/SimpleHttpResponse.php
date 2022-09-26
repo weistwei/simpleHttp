@@ -1,13 +1,13 @@
 <?php
 
-namespace NickStudio\Net;
+namespace NickLabs\Net;
 
 use Exception;
 use stdClass;
 
 /**
  * Class SimpleHttp
- * @package NickStudio\Net
+ * @package NickLabs\Net
  * @author Nick <weist.wei@gmail.com>
  * @date 2021/7/31
  */
